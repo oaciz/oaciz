@@ -1,6 +1,7 @@
 ### Hi there 👋
 Here are some ideas to get you started:
 
+-I'am a student in 42 istanbul
 - 🔭 I’m currently working on everything
 - 🌱 I’m currently learning C/C# and HTML/CSS
 - ⚡ Fun fact: Digital Game and listening music. :)
