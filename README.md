@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Digital Game and listening music. :)
 - In short, I am improving myself.
 -->
-https://github-readme-stats.vercel.app/api?username=oaciz&show_icons=true&theme=gradient
