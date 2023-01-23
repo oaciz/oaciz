@@ -1,5 +1,4 @@
 ### Hi there 👋
-Here are some ideas to get you started:
 
 -I'am a student in 42 istanbul
 - 🔭 I’m currently working on everything
