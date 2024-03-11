@@ -1,7 +1,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*zsYhj2_adfK-bSkljqol2A.jpeg" width="1024px" height="400px"></img>
 
-<h1 align="center">Hi 👋, I'm Ömer Aciz</h1>
-<h3 align="center">I'm from Turkey and I'm a software engineering student at Ecole 42 in Istanbul.</h3>
+<h1 align="center">Hello World 👋, I'm Ömer Aciz</h1>
+<h3 align="center">I'am a passionate software developer.</h3>
 
 
 
